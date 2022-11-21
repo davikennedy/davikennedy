@@ -19,10 +19,7 @@
 
 <div align="center">
 <a href="https://github.com/davikennedy">
-<img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davikennedy&layout=compact&langs_count=7&theme=dark"/>
-<img height="90em" src="https://github-readme-stats.vercel.app/api?username=davikennedy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davikennedy&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davikennedy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="200em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=davikennedy&theme=dark&hide_border=false&border_radius=6&locale=pt-br&date_format=&properties=background" />
 </div>
-
-<p align="center">
-	<img height="200em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=davikennedy&theme=dark&hide_border=false&border_radius=10&locale=pt-br&date_format=&properties=background" />
-</p>
